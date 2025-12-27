@@ -1,0 +1,10 @@
+Desktop  Documents  Downloads  Music  myfile.txt  Pictures  Public  Templates  Videos
+
+myfile.txt
+
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+
+Hello, this is a sample text file.
+
+Hello, this is a sample text file.
+(Press q to exit)
