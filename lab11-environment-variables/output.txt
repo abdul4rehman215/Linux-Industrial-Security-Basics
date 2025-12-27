@@ -1,0 +1,13 @@
+USER=toor
+HOME=/home/toor
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+PWD=/home/toor
+LANG=en_US.UTF-8
+
+Hello
+toor
+toor
+
+Hello
+
