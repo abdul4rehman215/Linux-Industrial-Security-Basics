@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.swp
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Editor config
+.vscode/
+.idea/
+
+# Screenshots (if added later)
+screenshots/
+assets/
