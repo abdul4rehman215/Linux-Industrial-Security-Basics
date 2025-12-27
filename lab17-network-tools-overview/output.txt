@@ -1,0 +1,22 @@
+ens5: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 9001
+        inet 172.31.10.358  netmask 255.255.255.0  broadcast 172.31.10.255
+        ether 0e:c5:2e:12:9a:01
+
+2: ens5: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 9001
+    inet 172.31.10.358/24 brd 172.31.10.255 scope global ens5
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=118 time=18.4 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=118 time=17.9 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=118 time=18.1 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=118 time=17.6 ms
+
+--- 8.8.8.8 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss
+
+Server:		127.0.0.53
+Name:	example.com
+Address: 93.184.216.34
+
+;; ANSWER SECTION:
+example.com.	86400	IN	A	93.184.216.34
