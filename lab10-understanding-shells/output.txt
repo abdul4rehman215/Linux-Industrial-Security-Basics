@@ -1,0 +1,13 @@
+/bin/bash
+
+# /etc/shells: valid login shells
+/bin/sh
+/bin/bash
+/bin/dash
+/usr/bin/bash
+/usr/bin/sh
+
+$
+sh
+
+toor@ip-172-31-10-258:~$
