@@ -1,0 +1,7 @@
+total 24
+drwxr-xr-x 2 toor toor 4096 Aug 23 10:10 Desktop
+drwxr-xr-x 2 toor toor 4096 Aug 23 10:12 Documents
+drwxr-xr-x 2 toor toor 4096 Aug 23 10:15 Downloads
+drwxr-xr-x 2 toor toor 4096 Aug 23 10:18 Music
+
+bash: ll: command not found
