@@ -1,0 +1,8 @@
+^Z
+[1]+  Stopped                 sleep 100
+
+[1]+ sleep 100 &
+
+[1]+  Running                 sleep 100 &
+
+sleep 100
