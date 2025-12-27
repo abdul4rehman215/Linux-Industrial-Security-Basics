@@ -1,0 +1,11 @@
+-rw-r--r-- 1 toor toor 56 Aug 24 10:15 example.txt
+
+-rw-r--r-- 1 toor toor 78 Aug 24 10:16 example.txt.gz
+
+-rw-r--r-- 1 toor toor 56 Aug 24 10:17 example.txt
+
+-rw-r--r-- 1 toor toor 49 Aug 24 10:18 sample.txt
+
+-rw-r--r-- 1 toor toor 74 Aug 24 10:19 sample.txt.bz2
+
+-rw-r--r-- 1 toor toor 49 Aug 24 10:20 sample.txt
