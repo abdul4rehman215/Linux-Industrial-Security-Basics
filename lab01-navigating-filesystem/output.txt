@@ -1,0 +1,17 @@
+/home/toor
+
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+
+total 96
+drwxr-x--- 15 toor toor 4096 Aug 18 10:22 .
+drwxr-xr-x  3 root root 4096 Aug 17 09:10 ..
+-rw-------  1 toor toor  220 Aug 17 09:15 .bash_logout
+-rw-------  1 toor toor 3771 Aug 17 09:15 .bashrc
+-rw-------  1 toor toor  807 Aug 17 09:15 .profile
+drwxr-x---  2 toor toor 4096 Aug 18 10:10 Desktop
+drwxr-x---  2 toor toor 4096 Aug 18 10:10 Documents
+drwxr-x---  2 toor toor 4096 Aug 18 10:10 Downloads
+
+/home/toor/Documents
+
+/home/toor
