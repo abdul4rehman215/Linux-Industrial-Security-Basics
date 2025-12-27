@@ -1,0 +1,5 @@
+Desktop  Documents  Downloads  file1.txt  file2.txt  Music  Pictures  report1.txt  report2.txt  Templates  Videos
+
+file1.txt  file2.txt  report1.txt  report2.txt
+
+Desktop  Documents  Downloads  Music  Pictures  report1.txt  report2.txt  Templates  Videos  backup
