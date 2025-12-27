@@ -54,3 +54,7 @@ To remove directories containing files or subdirectories, the `rm -r` command is
 
 ```bash
 rm -r directory_name
+```
+## ✅ Conclusion
+In this lab, core directory management commands were practiced, including creating, removing, renaming, and moving directories.
+These skills are fundamental for efficient filesystem organization and form a strong foundation for advanced Linux administration and cybersecurity tasks.
