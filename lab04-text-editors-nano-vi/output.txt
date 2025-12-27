@@ -1,0 +1,7 @@
+Hello, World!
+This is a simple file edited using nano.
+
+Hello, World!
+This is a simple file edited using nano.
+Editing with vi is a bit different.
+Remember to switch modes.
