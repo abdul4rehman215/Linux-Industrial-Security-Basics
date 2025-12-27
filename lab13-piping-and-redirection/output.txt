@@ -1,0 +1,12 @@
+Desktop
+Documents
+Downloads
+Music
+Pictures
+Public
+Templates
+Videos
+Additional content
+
+toor     1923  0.0  0.1  17012  5148 pts/0    Ss   10:12   0:00 bash
+toor     2048  0.0  0.0  12100   968 pts/0    S+   10:15   0:00 grep bash
