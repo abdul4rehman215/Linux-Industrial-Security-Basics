@@ -1,0 +1,45 @@
+Linux is a powerful operating system.
+It is widely used in servers.
+Linux is open-source.
+Many developers prefer Linux.
+Linux is stable and secure.
+This file is used for testing.
+Head and tail commands are useful.
+More allows paging.
+Grep helps search text.
+End of file.
+
+Linux is a powerful operating system.
+It is widely used in servers.
+Linux is open-source.
+Many developers prefer Linux.
+Linux is stable and secure.
+
+Linux is a powerful operating system.
+It is widely used in servers.
+Linux is open-source.
+Many developers prefer Linux.
+Linux is stable and secure.
+This file is used for testing.
+Head and tail commands are useful.
+More allows paging.
+Grep helps search text.
+End of file.
+
+This file is used for testing.
+Head and tail commands are useful.
+More allows paging.
+Grep helps search text.
+End of file.
+
+Linux is a powerful operating system.
+Linux is open-source.
+Many developers prefer Linux.
+Linux is stable and secure.
+
+Linux is a powerful operating system.
+Linux is open-source.
+Many developers prefer Linux.
+Linux is stable and secure.
+
+./example.txt:This file is used for testing.
