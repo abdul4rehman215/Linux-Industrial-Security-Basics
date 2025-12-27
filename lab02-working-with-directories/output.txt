@@ -1,0 +1,9 @@
+Desktop  Documents  Downloads  Music  my_new_directory  Pictures  Public  Templates  Videos
+
+sub_directory
+
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+
+Desktop  Documents  Downloads  Music  new_directory  Pictures  Public  Templates  Videos
+
+new_directory
