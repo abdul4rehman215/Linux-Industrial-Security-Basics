@@ -1,0 +1,40 @@
+Zip 3.0 (July 5th 2008)
+UnZip 6.00 of 20 April 2009
+
+Desktop
+Documents
+Downloads
+file1.txt
+file2.txt
+Music
+Pictures
+Public
+Templates
+Videos
+
+  adding: file1.txt (stored 0%)
+  adding: file2.txt (stored 0%)
+
+Archive:  myarchive.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+       15  2025-08-25 10:25   file1.txt
+       15  2025-08-25 10:25   file2.txt
+---------                     -------
+       30                     2 files
+
+Archive:  myarchive.zip
+ extracting: file1.txt
+ extracting: file2.txt
+
+Desktop
+Documents
+Downloads
+file1.txt
+file2.txt
+myarchive.zip
+Music
+Pictures
+Public
+Templates
+Videos
