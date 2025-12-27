@@ -1,0 +1,9 @@
+original.txt
+
+-rw-r--r-- 2 toor toor 26 Aug 21 10:30 hardlink.txt
+-rw-r--r-- 2 toor toor 26 Aug 21 10:30 original.txt
+lrwxrwxrwx 1 toor toor 12 Aug 21 10:31 symlink.txt -> original.txt
+
+131248 hardlink.txt
+131248 original.txt
+131312 symlink.txt
