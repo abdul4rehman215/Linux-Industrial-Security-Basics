@@ -1,0 +1,12 @@
+UUID=3b2c7d4a-9e23-4f81-bb56-d8f12e90c821 /     ext4    defaults        0 1
+UUID=1a2b3c4d-5678-90ab-cdef-1234567890ab /boot ext4    defaults        0 2
+/swapfile                                   none  swap    sw              0 0
+
+NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda      8:0    0   40G  0 disk
+├─sda1   8:1    0   39G  0 part /
+└─sda2   8:2    0    1G  0 part [SWAP]
+sdb      8:16   0   10G  0 disk
+└─sdb1   8:17   0  500M  0 part
+
+/dev/sdb1   487M   24M  438M   6% /media/usb
