@@ -1,0 +1,5 @@
+no crontab for toor
+
+0 0 * * * /bin/bash /home/toor/daily_script.sh
+
+#0 0 * * * /bin/bash /home/toor/daily_script.sh
