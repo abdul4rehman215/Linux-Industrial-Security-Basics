@@ -1,0 +1,7 @@
+apple
+apricot
+
+cherry
+
+color
+colour
