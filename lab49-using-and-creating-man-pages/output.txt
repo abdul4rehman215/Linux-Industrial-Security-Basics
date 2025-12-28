@@ -1,0 +1,23 @@
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs...
+
+TEST_SCRIPT(1)          Custom Manual          TEST_SCRIPT(1)
+
+NAME
+       test_script - A simple test script demonstration.
+
+SYNOPSIS
+       test_script
+
+DESCRIPTION
+       This script outputs a simple message:
+       "This is a test script."
+
+AUTHOR
+       toor
