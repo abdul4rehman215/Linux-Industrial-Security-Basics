@@ -1,0 +1,15 @@
+12M	Documents
+
+4.0M	Documents/reports
+2.5M	Documents/projects
+5.2M	Documents/notes
+
+5.2M	Documents/notes
+4.0M	Documents/reports
+2.5M	Documents/projects
+
+12M	Documents
+5.2M	Documents/notes
+2.1M	Documents/notes/meeting.txt
+4.0M	Documents/reports
+2.5M	Documents/projects
