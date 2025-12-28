@@ -1,0 +1,10 @@
+network error at node 3
+unexpected error at node 7
+
+logs/auth.log:user password incorrect
+
+network error at node 3
+operation successful at node 5
+--
+network connection established
+unexpected error at node 7
