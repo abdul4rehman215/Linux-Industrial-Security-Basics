@@ -1,0 +1,26 @@
+weekly
+rotate 4
+create
+compress
+delaycompress
+missingok
+notifempty
+include /etc/logrotate.d
+
+apt
+dpkg
+rsyslog
+ufw
+
+reading config file /etc/logrotate.conf
+including /etc/logrotate.d
+rotating pattern: /var/log/syslog
+rotating pattern: /var/log/auth.log
+rotating pattern: /var/log/kern.log
+
+-rw-r----- 1 syslog adm   245K Jan 15 12:01 syslog.1
+-rw-r----- 1 syslog adm    56K Jan 15 12:01 auth.log.1
+-rw-r----- 1 syslog adm    32K Jan 15 12:01 kern.log.1
+
+/var/log/syslog.2.gz
+/var/log/auth.log.2.gz
