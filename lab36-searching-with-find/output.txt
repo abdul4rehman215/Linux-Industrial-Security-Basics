@@ -1,0 +1,12 @@
+/home/toor/example.txt
+/home/toor/sample.txt
+/home/toor/cron_output.txt
+/home/toor/data.txt
+
+/home/toor/large_log_file.log
+/home/toor/downloads/backup.img
+
+2 /home/toor/example.txt
+4 /home/toor/sample.txt
+1 /home/toor/cron_output.txt
+5 /home/toor/data.txt
