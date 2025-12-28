@@ -1,0 +1,7 @@
+developers:x:1003:
+
+alice : alice developers
+
+Removing user alice from group developers
+
+alice : alice
