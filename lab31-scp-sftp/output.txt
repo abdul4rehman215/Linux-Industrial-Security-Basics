@@ -1,0 +1,14 @@
+example.txt                                   100%   23     1.2KB/s   00:00
+example.txt                                   100%   23     1.1KB/s   00:00
+
+Connected to 172.31.20.145.
+sftp> put example.txt
+Uploading example.txt to /home/ubuntu/example.txt
+example.txt                                   100%   23     1.0KB/s   00:00
+
+sftp> get example.txt downloaded_example.txt
+Fetching /home/ubuntu/example.txt to downloaded_example.txt
+example.txt                                   100%   23     1.0KB/s   00:00
+
+4c7e5b3c50a98d45b1a5e61d97bfe7dfda8b7b8a6c0a0b82a09c3fa29f1f45b1  example.txt
+4c7e5b3c50a98d45b1a5e61d97bfe7dfda8b7b8a6c0a0b82a09c3fa29f1f45b1  downloaded_example.txt
