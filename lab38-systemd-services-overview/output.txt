@@ -1,0 +1,14 @@
+UNIT                          LOAD   ACTIVE SUB     DESCRIPTION
+cron.service                  loaded active running Regular background program processing daemon
+ssh.service                   loaded active running OpenBSD Secure Shell server
+systemd-journald.service      loaded active running Journal Service
+
+● ssh.service - OpenBSD Secure Shell server
+     Loaded: loaded (/lib/systemd/system/ssh.service; enabled)
+     Active: active (running)
+
+Active: inactive (dead)
+
+Created symlink /etc/systemd/system/multi-user.target.wants/ssh.service → /lib/systemd/system/ssh.service.
+
+Removed symlink /etc/systemd/system/multi-user.target.wants/ssh.service.
