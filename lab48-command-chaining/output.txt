@@ -1,0 +1,13 @@
+toor@host:~/new_directory$
+
+Hello, World
+bash: cd: non_existent_directory: No such file or directory
+
+bash: cd: non_existent_directory: No such file or directory
+Directory does not exist
+
+This will always print
+bash: cd: non_existent_directory: No such file or directory
+This prints anyway
+
+Backup directory already exists
