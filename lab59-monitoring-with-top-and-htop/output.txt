@@ -1,0 +1,5 @@
+Hit:1 http://archive.ubuntu.com noble InRelease
+Reading package lists... Done
+Building dependency tree... Done
+
+Setting up htop (3.2.2-1) ...
