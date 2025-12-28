@@ -1,0 +1,3 @@
+Jan 15 02:00:01 ip-172-31-10-1308 CRON[1234]: (toor) CMD (/home/toor/backup.sh)
+
+Jan 15 02:00:01 ip-172-31-10-1308 CRON[1234]: (toor) CMD (/home/toor/backup.sh)
