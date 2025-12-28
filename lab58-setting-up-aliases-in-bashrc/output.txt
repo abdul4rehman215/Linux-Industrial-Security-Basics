@@ -1,0 +1,5 @@
+.  ..  .bashrc  .profile  .bash_history  .ssh
+
+Hit:1 http://archive.ubuntu.com noble InRelease
+Reading package lists... Done
+Building dependency tree... Done
