@@ -1,0 +1,5 @@
+This is a sensitive file that needs secure deletion.
+
+ls: cannot access 'sample.txt': No such file or directory
+
+grep: sample.txt: No such file or directory
