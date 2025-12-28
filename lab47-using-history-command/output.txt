@@ -1,0 +1,13 @@
+ 21  pwd
+ 22  ls
+ 23  cd /var/log
+ 24  ls -lh
+ 25  cd ~
+ 26  ll
+ 27  free -h
+ 28  df -h
+ 29  history
+
+/home/toor
+
+(no output)
