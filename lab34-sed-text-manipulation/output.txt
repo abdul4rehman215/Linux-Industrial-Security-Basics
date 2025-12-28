@@ -1,0 +1,14 @@
+Hello World
+Hello Universe
+Goodbye World
+
+Hello Earth
+Hello Universe
+Goodbye Earth
+
+Hello Earth
+Hello Universe
+Goodbye Earth
+
+Hello Earth
+Goodbye Earth
