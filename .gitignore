@@ -1,19 +1,62 @@
-# OS files
+# -------------------------
+# OS / Editor Files
+# -------------------------
 .DS_Store
 Thumbs.db
-
-# Temporary / backup files
-*.swp
-*.bak
-*.tmp
-
-# Logs
-*.log
-
-# Editor config
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
 
-# Screenshots (if added later)
-screenshots/
-assets/
+# -------------------------
+# Temporary / Backup Files
+# -------------------------
+*.tmp
+*.bak
+*.old
+*.log~
+
+# -------------------------
+# Downloaded / Large Files
+# -------------------------
+*.bin
+*.iso
+*.img
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# -------------------------
+# Package / Cache Files
+# -------------------------
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# -------------------------
+# Credentials / Secrets
+# -------------------------
+.env
+.env.*
+*.key
+*.pem
+*.crt
+id_rsa
+id_rsa.pub
+
+# -------------------------
+# Lab-Specific Noise
+# -------------------------
+webpage.html
+index.html
+100MB.bin
+
+# -------------------------
+# Logs (generated during labs)
+# -------------------------
+*.out
+*.trace
