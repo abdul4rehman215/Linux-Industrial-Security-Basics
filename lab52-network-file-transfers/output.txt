@@ -1,1 +1,20 @@
+index.html
+
+<!doctype html>
+<html>
+<head>
+    <title>Example Domain</title>
+</head>
+<body>
+Example Domain
+</body>
+</html>
+
+--2025-01-15--  https://speed.hetzner.de/100MB.bin
+Connecting to speed.hetzner.de...
+Saving to: ‘100MB.bin’
+^C
+
+Continuing download...
+100%[==============================>] 100,000,000  12.3MB/s
 
