@@ -1,0 +1,20 @@
+Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://security.ubuntu.com/ubuntu noble-security InRelease
+Reading package lists... Done
+
+vim - Vi IMproved - enhanced vi editor
+nano - small, friendly text editor inspired by Pico
+gedit - official text editor of the GNOME desktop environment
+
+Reading package lists... Done
+Building dependency tree... Done
+The following NEW packages will be installed:
+  vim
+After this operation, 8.5 MB of additional disk space will be used.
+
+VIM - Vi IMproved 9.1
+
+The following packages will be REMOVED:
+  vim
+After this operation, 8.5 MB disk space will be freed.
