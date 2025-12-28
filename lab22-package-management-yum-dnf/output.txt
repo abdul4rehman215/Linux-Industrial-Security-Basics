@@ -1,0 +1,26 @@
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.centos.org
+ * extras: mirror.centos.org
+ * updates: mirror.centos.org
+No packages marked for update
+
+No packages marked for upgrade
+
+=========================== N/S matched: vim ===========================
+vim-enhanced.x86_64 : The VIM editor
+vim-common.x86_64   : Common files for the VIM editor
+vim-minimal.x86_64  : A minimal version of the VIM editor
+
+Resolving Dependencies
+Transaction Summary
+Install  1 Package
+Installing : vim-enhanced-7.4.629-8.el7.x86_64
+Complete!
+
+VIM - Vi IMproved 7.4
+
+Transaction Summary
+Remove  1 Package
+Erasing : vim-enhanced-7.4.629-8.el7.x86_64
+Complete!
