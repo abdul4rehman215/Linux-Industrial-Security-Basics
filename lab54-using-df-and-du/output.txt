@@ -1,0 +1,9 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        40G   28G   10G  74% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+
+1.2G    /home/toor/Documents
+
+600M    /home/toor/Documents/videos
+350M    /home/toor/Documents/archive.zip
+120M    /home/toor/Documents/report.pdf
