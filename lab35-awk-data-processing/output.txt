@@ -1,0 +1,9 @@
+Name Gender
+John Male
+Emma Female
+Mike Male
+Lucy Female
+
+John 28 Male
+Mike 32 Male
+Lucy 29 Female
