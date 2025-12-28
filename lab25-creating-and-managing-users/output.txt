@@ -1,0 +1,9 @@
+uid=1002(newuser) gid=1002(newuser) groups=1002(newuser)
+
+New password:
+Retype new password:
+passwd: password updated successfully
+
+newuser P 08/25/2025 0 99999 7 -1
+
+id: ‘newuser’: no such user
