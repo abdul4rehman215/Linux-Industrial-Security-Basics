@@ -1,0 +1,28 @@
+ufw is already the newest version (0.36.2-1).
+
+Firewall is active and enabled on system startup
+
+Rule added
+Rule added (v6)
+
+Rule added
+Rule added (v6)
+
+Status: active
+
+To                         Action      From
+--                         ------      ----
+OpenSSH                    ALLOW       Anywhere
+80/tcp                     ALLOW       Anywhere
+OpenSSH (v6)               ALLOW       Anywhere (v6)
+80/tcp (v6)                ALLOW       Anywhere (v6)
+
+Status: active
+Logging: on (low)
+Default: deny (incoming), allow (outgoing)
+
+Rule added
+Rule added (v6)
+
+Rule added
+Rule added (v6)
