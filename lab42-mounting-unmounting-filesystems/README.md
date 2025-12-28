@@ -2,7 +2,7 @@
 
 **Environment:** Ubuntu 24.04 LTS (Cloud / Virtual Lab Environment)  
 **User:** toor  
-**Test Partition:** /dev/sdb1 (secondary test disk)
+**Test Partition:** /dev/nvme0n1 (secondary test disk)
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## ⚠️ Safety Notice
 All operations were performed on a non-system test partition.
-Never mount or unmount critical system disks (e.g., /dev/sda).
+Never mount or unmount critical system disks (e.g., /dev/nvme0n1).
 
 ---
 
