@@ -24,32 +24,6 @@ All labs were performed in a **cloud-based Linux lab environment**.
 
 ---
 
-## 🗂️ Repository Structure
-
-linux-labs/
-│
-├── lab01-...
-├── lab02-...
-├── lab03-...
-│
-├── ...
-│
-├── lab60-introduction-to-selinux/
-│
-├── README.md # ← You are here
-└── .gitignore
-
-Each lab directory follows this **standard format**:
-
-labXX-lab-name/
-├── README.md
-├── commands.sh
-├── output.txt
-├── interview_qna.md
-└── troubleshooting.md
-
----
-
 ## 🧠 What You Will Learn
 
 ### 🔹 Linux Fundamentals
@@ -89,6 +63,34 @@ Security relevance is **explicitly documented only where applicable**, including
 - SELinux access control
 
 This ensures **real-world relevance** without unnecessary theory.
+
+---
+
+## 🧰 Tools & Commands Used
+
+These labs involve hands-on usage of essential Linux commands and utilities, including:
+
+- `pwd`, `ls`, `cd`
+- `mkdir`, `rmdir`, `mv`, `rm`
+- `touch`, `cat`, `less`, `more`
+- `chmod`, `chown`, `chgrp`
+- `ln`, `grep`, `head`, `tail`
+- `bash`, `sh`
+
+These commands form the foundation of daily Linux usage and scripting.
+
+---
+
+## 🔐 Security Relevance
+
+These labs build the Linux knowledge required to:
+
+- Safely handle files, directories, and permissions
+- Avoid accidental data exposure and misconfiguration
+- Navigate Linux systems securely and confidently
+- Prepare for **SOC**, **Cloud**, **DevOps**, and **Linux Administration** roles
+
+Security concepts are introduced **practically**, only where they are relevant, to reflect real-world usage rather than theoretical overload.
 
 ---
 
