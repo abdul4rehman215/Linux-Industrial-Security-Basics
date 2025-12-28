@@ -1,0 +1,7 @@
+This is a sample file.
+Learning vi editor basics.
+vi is powerful and efficient.
+
+This is a sample file.
+Learning vim editor basics.
+vim is powerful and efficient.
