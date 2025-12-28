@@ -1,0 +1,25 @@
+No logical volumes found
+
+Disk /dev/sdb: 10 GiB
+
+Physical volume "/dev/sdb" successfully created.
+
+Volume group "myvg" successfully created
+
+Logical volume "mylv" created.
+
+LV Path                /dev/myvg/mylv
+LV Name                mylv
+VG Name                myvg
+LV Size                1.00 GiB
+LV Status              available
+
+Creating filesystem with 262144 4k blocks
+
+/dev/mapper/myvg-mylv  976M   24M  886M   3% /mnt/mylv
+
+Logical volume "mylv" successfully removed
+
+Volume group "myvg" successfully removed
+
+Labels on physical volume "/dev/sdb" successfully wiped.
