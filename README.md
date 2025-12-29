@@ -10,7 +10,6 @@
 ![Lab](https://img.shields.io/badge/Lab-Linux_Security_Basics-success)
 ![Security](https://img.shields.io/badge/Security-Fundamentals-critical)
 ![Hardening](https://img.shields.io/badge/System-Hardening-important)
-![SOC Ready](https://img.shields.io/badge/SOC-Relevant-blueviolet)
 
 </div>
 
