@@ -1,5 +1,19 @@
 # 🛡️ Linux & Industrial Security Basics - Hands-On Labs Repository (Labs 1–60)
 
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-Security-black?logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-orange?logo=ubuntu)
+![Shell](https://img.shields.io/badge/Shell-Bash-blue)
+![Security](https://img.shields.io/badge/Focus-Security-red)
+![Level](https://img.shields.io/badge/Level-Beginner--Intermediate-informational)
+![Lab](https://img.shields.io/badge/Lab-Linux_Security_Basics-success)
+![Security](https://img.shields.io/badge/Security-Fundamentals-critical)
+![Hardening](https://img.shields.io/badge/System-Hardening-important)
+![SOC Ready](https://img.shields.io/badge/SOC-Relevant-blueviolet)
+
+</div>
+
 > **Practical Linux Labs performed in a Cloud Lab Environment**  
 > Focused on **Linux fundamentals, system administration, security concepts, and job-oriented skills**
 
