@@ -1,5 +1,4 @@
-# 🛡️ Linux & Industrial Security Basics - Hands-On Labs Repository (Labs 1–60)
-
+# 🛡️ Linux & Industrial Security Basics - Hands-On Labs
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-Security-black?logo=linux)
