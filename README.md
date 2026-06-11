@@ -148,6 +148,14 @@ Labs were performed in a controlled cloud lab environment.
 
 ---
 
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_throwback-linuxsecurity-socjourney-activity-7413230686289100800-Qbrw?)
+
+---
+
 ## ⭐ Final Note
 
 This repository represents **practical Linux skill development**, not copy-paste theory.
